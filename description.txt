@@ -1,0 +1,6 @@
+Adds some new magic tomes themed around different coloured slime.
+Currently adds blue, red, pink, purple and rainbow books.
+
+Made as a commision from Not a Pikachu
+Code by mimig298
+Base sprites by cheesenuggets

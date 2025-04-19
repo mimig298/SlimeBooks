@@ -1,0 +1,40 @@
+Items: {
+	SlimeShower: {
+		DisplayName: Slimy Shower
+		Tooltip: ""
+	}
+
+	RedSlimeShower: {
+		DisplayName: Red Slimy Shower
+		Tooltip: Heals the player when hitting an enemy
+	}
+
+	PinkSlimeShower: {
+		DisplayName: Pink Slimy Shower
+		Tooltip: Bounces when hitting a wall
+	}
+
+	PurpleSlimeShower: {
+		DisplayName: Purple Slimy Shower
+		Tooltip: Emits four corrupt shadows when hitting an enemy
+	}
+
+	RainbowSlimeShower: {
+		DisplayName: Rainbow Slimy Shower
+		Tooltip:
+			'''
+			Bounces when hitting a wall
+			Heals the player and emits four rainbow shadows when hitting an enemy
+			'''
+	}
+}
+
+Projectiles: {
+	SlimeShower.DisplayName: Slimy Shower
+	RedSlimeShower.DisplayName: Red Slimy Shower
+	PinkSlimeShower.DisplayName: Pink Slimy Shower
+	PurpleShadow.DisplayName: Purple Shadow Slime
+	PurpleSlimeShower.DisplayName: Purple Slimy Shower
+	RainbowSlimeShower.DisplayName: Rainbow Slimy Shower
+	RainbowShadow.DisplayName: Rainbow Shadow Slime
+}
