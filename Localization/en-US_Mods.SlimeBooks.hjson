@@ -27,6 +27,11 @@ Items: {
 			Heals the player and emits four rainbow shadows when hitting an enemy
 			'''
 	}
+
+	BrownSlimeyShower: {
+		DisplayName: Brown Slimey Shower
+		Tooltip: ""
+	}
 }
 
 Projectiles: {
@@ -37,4 +42,5 @@ Projectiles: {
 	PurpleSlimeShower.DisplayName: Purple Slimy Shower
 	RainbowSlimeShower.DisplayName: Rainbow Slimy Shower
 	RainbowShadow.DisplayName: Rainbow Shadow Slime
+	BrownSlimeyShower.DisplayName: Brown Slimey Shower
 }
